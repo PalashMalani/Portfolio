@@ -9,3 +9,14 @@ Hi, my name is Palash Malani
 
 
 <p>I am Data Analyst based in Pune </p>
+
+
+# About Me 
+
+### My Website
+
+<p align="center">
+<a href="https://www.palashmalani.com"><img src="images/website_SS.JPG"></a></p>
+  
+  
+<hr>
